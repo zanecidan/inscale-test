@@ -1,0 +1,7 @@
+2018-07-12 17:10:57.823 INFO  getOwners 
+2018-07-12 17:10:57.841 INFO  getPets for owner ID 2 
+2018-07-12 17:11:38.619 INFO  addPet id 5d243dbc-b0d8-419f-a99a-15d89201d89c 
+2018-07-13 16:06:56.294 INFO  getOwners 
+2018-07-13 16:06:56.329 INFO  getPets for owner ID 2 
+2018-07-14 13:17:25.162 INFO  getOwners 
+2018-07-14 13:17:25.242 INFO  getPets for owner ID 2 

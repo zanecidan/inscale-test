@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Joseph",
+        "address": "100",
+        "phone": "012-3456789",
+        "email": "joseph@abc.com"
+    },
+    {
+        "id": 2,
+        "name": "Steven",
+        "address": "101",
+        "phone": "012-9876543",
+        "email": "steven@abc.com"
+    }
+]
